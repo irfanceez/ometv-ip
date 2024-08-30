@@ -1,5 +1,5 @@
 //ADD YOUR API KEY HERE 
-const api_key = "YOUR_API_KEY"
+const api_key = curl "ipinfo.io/183.171.170.134?token=8cb7d8cd5acaeb"
 
 
 var streamer = false
