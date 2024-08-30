@@ -15,7 +15,7 @@ Script designed to provide information about the geographical location of the pe
 ## How to install
 - optain free api key from ipinfo.io
 - copy code from file script.js
-- paste your api key inside code here -> const api_key = "YOUR_API_KEY" <-
+- paste your api key inside code here -> const api_key = "curl "ipinfo.io/183.171.170.134?token=8cb7d8cd5acaeb"" <-
 - open ome.tv
 - open Developer tools (F12) and click Console
 - paste code into console and click enter
